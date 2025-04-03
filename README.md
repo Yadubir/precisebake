@@ -74,7 +74,6 @@ Future Enhancements
 - Improve ingredient database with more entries and densities.
 - Enhance UI with interactive elements.
 - Adding shopping list related to the recipe generated.
-- Improvising security by adding token generation automation and renewing it frequently.
 
 Contributors
 ------------
